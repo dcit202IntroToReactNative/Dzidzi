@@ -61,7 +61,7 @@ const recipes = [
         name: "Ampesi",
         category: "lunch",
         ingredients: "\u2022 Yam\n\u2022 Cocoyam leaves (Kontomire)\n\u2022 Onion\n\u2022 Tomatoes\n\u2022 Palm oil\n\u2022 Salt\n\u2022 Pepper\n\u2022 Optional flavourings:\n Seasonings, Fish or meat",
-        instructions: ""
+        instructions: "1. Peel and cut the yam into medium-sized pieces. Rinse the yam under running water to remove any dirt or impurities.\n 2. Wash the cocoyam leaves (kontomire) thoroughly.Remove the tough stems and chop the leaves into smaller pieces.\n 3. In a large pot, add water and bring it to a boil. Add the yam pieces to the boiling water and cook until they are soft and easily pierced with a fork.\n 4. While the yam is cooking, prepare the kontomire stew. Heat some palm oil in a separate pot over medium heat.\n 5. Chop the onions and tomatoes. Add the chopped onions to the heated oil and sauté until they become translucent.\n 6. Add the chopped tomatoes to the pot and cook until they soften and release their juices. Stir occasionally to prevent burning.\n 7. If using fish or meat, clean and season them with salt, pepper, and any desired seasonings. Add the fish or meat to the pot and cook until they are done.\n 8. Add the chopped kontomire (cocoyam leaves) to the pot and stir well. Cover the pot and allow the stew to simmer for about 10-15 minutes, or until the kontomire is tender.\n 9. Season the stew with salt, pepper, and any desired seasonings to taste. Adjust the flavors according to your preference.\n 10. Once the yam is cooked, remove it from the pot and drain any excess water.\n 11. Serve the cooked yam with the kontomire stew.You can either place the stew on top of the yam or serve it in a separate bowl."
     }
 ]
 
