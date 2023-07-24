@@ -54,6 +54,14 @@ const recipes = [
         category: "lunch",
         ingredients: "\u2022 1 cup rice\n\u2022 3-4 cups water or as required\n\u2022 salt as required",
         instructions: "1. Rinse rice and put in a medium cooking pot. Add water and salt to taste.\n2. Put rice on high and bring to ball. When rice boils over, reduce heat to medium and let cook till all water is absorbed and very soft when pressed between your fingers. Turn off heat.\n3. With the rice in the cooking pot, use a wooden ladle to beat or mash the rice against the sides of the pot for it to be glutinous. Divide the glutinous rice into balls according to required serving. Serve with soup of choice."
+    },
+    {
+        id: 8,
+        img: require("../assets/ampesi_lunch.jpg"),
+        name: "Ampesi",
+        category: "lunch",
+        ingredients: "\u2022 Yam\n\u2022 Cocoyam leaves (Kontomire)\n\u2022 Onion\n\u2022 Tomatoes\n\u2022 Palm oil\n\u2022 Salt\n\u2022 Pepper\n\u2022 Optional flavourings:\n Seasonings, Fish or meat",
+        instructions: ""
     }
 ]
 
