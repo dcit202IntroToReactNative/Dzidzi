@@ -20,8 +20,8 @@ const recipes = [
         img: require("../assets/oats.jpg"),
         name: "Oats",
         category: "breakfast",
-        ingredients: "",
-        instructions: ""
+        ingredients: "\u2022 1/2 cup instant oats\n\u2022 1 cup water or milk\n\u2022 Pinch of salt\n\u2022 Optional: sweetener,fruit,nuts,or other toppings ",
+        instructions: "1. In a microwave-safe bowl, combine the oats, water or milk, and salt.\n2. Microwave on high for 1-2 minutes, stirring occasionally, until the oats are cooked and the liquid is absorbed.\n3. Add sweetener or other toppings as desired."
     },
     {
         id: 4,
@@ -63,6 +63,43 @@ const recipes = [
         category: "Supper",
         ingredients: "For Tuo:\n\u2022 2-3 largre yams\n\u2022 Water\n For Soup:\n\u2022 Onion (1 large chopped)\n\u2022 Tomatoes(2-3 medium-sized, chopped)\n\u2022 Scotch bonnet pepper (1-2 chopped)\n\u2022 Ginger(thumb-sized piece, grated)\n\u2022 Garlic cloves(2-3 minced) \n\u2022 Stock cube(optionable) \n\u2022 Vegetables(such as spinach, kale or collard greens) \n\u2022 Salt \n\u2022 Palm oil \n\u2022 Spices",
         instructions: "1.Peel the yams and cut them into chunks Rinse them under running water to remove any dirt or impurities.\n2.In a large pot, add enough water to cover the yam chunks.Bring it to a boil over medium-high heat and cook until the yam is tender and easily mashed with a fork\n 3. Once the yam is cooked, remove it from the pot and place it in a large bowl or mortar. Use a pestle or a masher to pound and mash the yam until it becomes a smooth, dough-like consistency. You can also use a food processor or blender to achieve the same result.\n4.  Wet your hands with water and shape the mashed yam into small round balls or dumplings. Set them aside.\n5.In a separate pot, heat some palm oil over medium. Heat. Add the chopped onions and sauté until they become translucent.\n 6.Add the chopped tomatoes, scotch bonnet pepper,grated ginger, and minced garlic to the pot. Stir and cook until the tomatoes soften and release their juices.\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want. .\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want.\n7. If using meat, add the meat to the pot and cook until it is browned and cooked through. If using fish, add it later in the cooking process to prevent it from overcooking.\n8. Add spices and seasonings according to your preference You can use a stock cube for added flavor if desired. Stir well to combine all the ingredients.\n 9. Add enough water to create a soup consistency. Cover the pot and let the soup simmer for about 20-30 minutes to allow the flavors to meld together.\n10. Add the vegetables to the pot and cook until they are tender. Adjust the seasoning and salt according to your taste.\n11. In a separate pot, bring water to a boil. Add the shaped yam balls (Tuo) to the boiling water and cook for about 10-15 minutes or until they float to the surface, indicating they are cooked.\n12. Remove the cooked Tuo from the water and serve them alongside the prepared soup. To serve Tuo Zaafi, place the cooked Tuo in a bowl or plate and pour the soup over it. You can garnish with additional chopped vegetables or herbs if desired. Enjoy your delicious and hearty Tuo Zaafi!"
+    },
+    {
+        id: 9,
+        img: require("../assets/attieke_lunch.jpg"),
+        name: "Attieke",
+        category: "Lunch",
+        ingredients: "For Grilled Tilapia:\n\u2022 Fresh tilapia (cleaned and washed)\n\u2022 An onion\n\u2022 Salt\n\u2022 Garlic\u2022 Ginger\n\u2022 Spring onion\n\u2022 Few chillies\n\u2022 Bell pepper\n\u2022All purpose seasoning\n\u2022 Maggi cube\n\nFor Attieke:\n\u2022 Store bought attieke\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Bell pepper\n\u2022 Maggi cube\n\u2022 Vegetable oil\n\u2022 Salt",
+        instructions: "1. Cut and blend all the vegetables with the seasoning to make a marinade.\n2. Cut slits on the tilapia and cover it in the marinade, making sure it gets in all the crevices and leave in a fridge  to marinate.\n3. Preheat oven to 180 degrees Fahrenheit before putting the tilapia in it for 35 minutes\n4. Pour  attieke into a bowl and sprinkle water into it. Warm it in a microwave to absorb the water and soften.\n5. Pour a little oil in a frying pan and add chopped onions to fry for 2 minutes\n6. Add the warm attieke into the pan and stir it.\n7. Add Maggi and salt and continue stirring till evenly mixed.\nThe attieke is now ready, serve with fresh chopped tomatoes and onions and chopped and steamed bell pepper, with the grilled tilapia and enjoy with pepper sauce."
+    },
+    {
+        id: 10,
+        img: require("../assets/ebunuebunu_supper.jpg"),
+        name: "Ebunuebunu",
+        category: "Supper",
+        ingredients: "\u2022 Snails or any meat of your choice\n\u2022 Herrings/dry or smoked fish\n\u2022 Salt\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Garlic\n\u2022 Ginger\n\u2022 Kontomire\n\u2022 prekese\n\u2022 Optional:\n        peanut butter",
+        instructions:"1. Wash the kontomire leaves in a clean bowl and put into a saucepan\n2. Add a little amount of water and boil under a medium heat\n3. Remove after 5 minutes when it softens\n4. Wash the meat and put into another saucepan.\n5. Wash and cut onions into pieces.\n6. Add diced onions to meat, add seasoning and salt to taste. Place over medium heat.\n7. Chop some onions and pour into a blender, add ginger, pepper and garlic and blend into a smooth mixture.\n8. Pour the blended mixture into the meat on fire.\n9. Add about 4 pieces of fresh tomatoes and fresh onions\n10. Add a teaspoon of peanut butter\n11. Blend the cocoyam leaves and pour it into the soup\n12. Add about 4 cups of water. you can add more depending on how thick you want your soup to be.\n13. Remove the cooked onions and cooked tomatoes and blend together.\n14. Pour the blended mixture back into the soup\n15. Add this point, you can add the herrings or smoked fish. Allow the soup to boil for about 15 minutes.\n16. Add salt or maggie cube to taste\n17. Add the prekese and allow it to diffuse in the soup for about 5 minutes.\nThe soup is ready. Serve with fufu."
+        }
+  ,
+    {
+        id: 11,
+        img: require("../assets/wheat_porridge_breakfast.jpg"),
+        name: "Wheat",
+        category: "breakfast",
+        //Ingredients for  Wheat
+        ingredients: "\u20221 cup of whole wheat \n\u20226 cups of water \n\u2022Salt(to taste) \n\u2022Milk Sugar(optional)",
+        //Instructions for Wheat
+        instructions: "1. Boil two cups of water in a saucepan.\n 2. Pour in the wheat. \n3. Cover it with the lid and remove it form the heat source. \n4. Leave it to soak for about six hours. After that, drain the water form the wheat using a colander.\n 5. Add the wheat soaked early on with the four cups of water left and boil for about 15 minutes. Let it be on medium heat.\n 6. After 15 minutes, trun off the fire and wait till the wheat berries open up. \n7. Serve. You and add sugar and milk to your taste."
+    },
+    {
+        id: 12,
+        img: require("../assets/pudding_breakfast.jpg"),
+        name: "Tigernut Pudding",
+        category: "breakfast",
+        //ingredients for tigernut pudding
+        ingredients: "\u2022Tigernuts \n\u2022Rice \n\u2022Salt \n\u2022Vanilla Essence \n\u2022Water \n\u2022Sugar \n\u2022Milk",
+        //instructions for tigernut pudding
+        instructions: "1. Soak tigernuts and uncooked rice separately overnight. \n2. Discard soaking water and wash both rice and tigernuts.\n 3. Blend the soaked rice and tigernut with enough water until smooth. \n4. Strain the blended mixture into a bowl, makign sure there is no pulp in the strained tigernut milk. \n5. Blend the pulp with enough water and strain a few more times to extract more milk form it.\n 6. Pour the milk into a pot over low medium heat and whisk in one direction till it thickens.\n 7. Add a pinch of salt, vanilla essence and sugar and continue whisking till evenly mixed.\n 8. The tigernut pudding is ready.Serve while hot and enjoy with milk."
     }
 ]
 
