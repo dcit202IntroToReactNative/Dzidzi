@@ -46,6 +46,14 @@ const recipes = [
         category: "supper",
         ingredients: "",
         instructions: ""
+    },
+    {
+        id: 100,
+        
+        name: "Attieke",
+        category: "Lunch",
+        ingredients: "For Grilled Tilapia:\n\u2022 Fresh tilapia (cleaned and washed)\n\u2022 An onion\n\u2022 Salt\n\u2022 Garlic\u2022 Ginger\n\u2022 Spring onion\n\u2022 Few chillies\n\u2022 Bell pepper\n\u2022All purpose seasoning\n\u2022 Maggi cube\n\nFor Attieke:\n\u2022 Store bought attieke\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Bell pepper\n\u2022 Maggi cube\n\u2022 Vegetable oil\n\u2022 Salt",
+        instructions: ""
     }
 ]
 
