@@ -53,6 +53,7 @@ const recipes = [
         img: require("../assets/wheat_porridge_breakfast.jpg"),
         name: "Wheat",
         category: "breakfast",
+        //Ingredients for  Wheat
         ingredients: "\u20221 cup of whole wheat \n\u20226 cups of water \n\u2022Salt(to taste) \n\u2022Milk Sugar(optional)",
         instructions: "1. Boil two cups of water in a saucepan.\n 2. Pour in the wheat. \n3. Cover it with the lid and remove it form the heat source. \n4. Leave it to soak for about six hours. After that, drain the water form the wheat using a colander.\n 5. Add the wheat soaked early on with the four cups of water left and boil for about 15 minutes. Let it be on medium heat.\n 6. After 15 minutes, trun off the fire and wait till the wheat berries open up. \n7. Serve. You and add sugar and milk to your taste."
     },
