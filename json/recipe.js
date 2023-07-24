@@ -45,10 +45,27 @@ const recipes = [
         name: "Waakye",
         category: "supper",
         ingredients: "",
-        instructions: ""
+        instructions: "",
     },
     {
         id: 7,
+        img: require("../assets/oblayo_breakfast.jpg"),
+        name: "Oblayo",
+        category: "breakfast",
+        ingredients: "\u2022 Roughly ground corn\n\u2022 Water\n\u2022 Sugar\n\u2022 Milk",
+        instructions: "1.Pour some corn in a bowl and add water to it.\n2.Stir and wait for the corn to settle, the chaff will surface, then pour away the chaff from it.\n3. Put water on fire in the saucepan, pour in your corn and stir from time to time and leave it to cook for a while.\n4.Cook until you can squash the corn.\n 5.If you want it lighter, you can add more water, stir and let it cook for a little more time.\n 6.Pour it into a bowl and its ready. Add your sugar and milk as you want."
+        
+    },
+    {
+        id: 8,
+        img: require("../assets/tuozafi_supper.jpg"),
+        name: "Tuozafi",
+        category: "Supper",
+        ingredients: "For Tuo:\n\u2022 2-3 largre yams\n\u2022 Water\n For Soup:\n\u2022 Onion (1 large chopped)\n\u2022 Tomatoes(2-3 medium-sized, chopped)\n\u2022 Scotch bonnet pepper (1-2 chopped)\n\u2022 Ginger(thumb-sized piece, grated)\n\u2022 Garlic cloves(2-3 minced) \n\u2022 Stock cube(optionable) \n\u2022 Vegetables(such as spinach, kale or collard greens) \n\u2022 Salt \n\u2022 Palm oil \n\u2022 Spices",
+        instructions: "1.Peel the yams and cut them into chunks Rinse them under running water to remove any dirt or impurities.\n2.In a large pot, add enough water to cover the yam chunks.Bring it to a boil over medium-high heat and cook until the yam is tender and easily mashed with a fork\n 3. Once the yam is cooked, remove it from the pot and place it in a large bowl or mortar. Use a pestle or a masher to pound and mash the yam until it becomes a smooth, dough-like consistency. You can also use a food processor or blender to achieve the same result.\n4.  Wet your hands with water and shape the mashed yam into small round balls or dumplings. Set them aside.\n5.In a separate pot, heat some palm oil over medium. Heat. Add the chopped onions and sauté until they become translucent.\n 6.Add the chopped tomatoes, scotch bonnet pepper,grated ginger, and minced garlic to the pot. Stir and cook until the tomatoes soften and release their juices.\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want. .\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want.\n7. If using meat, add the meat to the pot and cook until it is browned and cooked through. If using fish, add it later in the cooking process to prevent it from overcooking.\n8. Add spices and seasonings according to your preference You can use a stock cube for added flavor if desired. Stir well to combine all the ingredients.\n 9. Add enough water to create a soup consistency. Cover the pot and let the soup simmer for about 20-30 minutes to allow the flavors to meld together.\n10. Add the vegetables to the pot and cook until they are tender. Adjust the seasoning and salt according to your taste.\n11. In a separate pot, bring water to a boil. Add the shaped yam balls (Tuo) to the boiling water and cook for about 10-15 minutes or until they float to the surface, indicating they are cooked.\n12. Remove the cooked Tuo from the water and serve them alongside the prepared soup. To serve Tuo Zaafi, place the cooked Tuo in a bowl or plate and pour the soup over it. You can garnish with additional chopped vegetables or herbs if desired. Enjoy your delicious and hearty Tuo Zaafi!"
+    },
+    {
+        id: 9,
         img: require("../assets/attieke_lunch.jpg"),
         name: "Attieke",
         category: "Lunch",
@@ -56,7 +73,7 @@ const recipes = [
         instructions: "1. Cut and blend all the vegetables with the seasoning to make a marinade.\n2. Cut slits on the tilapia and cover it in the marinade, making sure it gets in all the crevices and leave in a fridge  to marinate.\n3. Preheat oven to 180 degrees Fahrenheit before putting the tilapia in it for 35 minutes\n4. Pour  attieke into a bowl and sprinkle water into it. Warm it in a microwave to absorb the water and soften.\n5. Pour a little oil in a frying pan and add chopped onions to fry for 2 minutes\n6. Add the warm attieke into the pan and stir it.\n7. Add Maggi and salt and continue stirring till evenly mixed.\nThe attieke is now ready, serve with fresh chopped tomatoes and onions and chopped and steamed bell pepper, with the grilled tilapia and enjoy with pepper sauce."
     },
     {
-        id: 8,
+        id: 10,
         img: require("../assets/ebunuebunu_supper.jpg"),
         name: "Ebunuebunu",
         category: "Supper",
@@ -65,7 +82,7 @@ const recipes = [
         }
   ,
     {
-        id: 9,
+        id: 11,
         img: require("../assets/wheat_porridge_breakfast.jpg"),
         name: "Wheat",
         category: "breakfast",
@@ -75,7 +92,7 @@ const recipes = [
         instructions: "1. Boil two cups of water in a saucepan.\n 2. Pour in the wheat. \n3. Cover it with the lid and remove it form the heat source. \n4. Leave it to soak for about six hours. After that, drain the water form the wheat using a colander.\n 5. Add the wheat soaked early on with the four cups of water left and boil for about 15 minutes. Let it be on medium heat.\n 6. After 15 minutes, trun off the fire and wait till the wheat berries open up. \n7. Serve. You and add sugar and milk to your taste."
     },
     {
-        id: 10,
+        id: 12,
         img: require("../assets/pudding_breakfast.jpg"),
         name: "Tigernut Pudding",
         category: "breakfast",
