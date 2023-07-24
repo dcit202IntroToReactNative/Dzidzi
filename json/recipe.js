@@ -46,6 +46,14 @@ const recipes = [
         category: "supper",
         ingredients: "",
         instructions: ""
+    },
+    {
+        id: 7,
+        img: require("../assets/omotu_lunch.jpg"),
+        name: "Omotuo",
+        category: "lunch",
+        ingredients: "\u2022 1 cup rice\n\u2022 3-4 cups water or as required\n\u2022 salt as required",
+        instructions: ""
     }
 ]
 
