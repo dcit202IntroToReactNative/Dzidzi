@@ -61,10 +61,10 @@ const recipes = [
         img: require("../assets/pudding_breakfast.jpg"),
         name: "Tigernut Pudding",
         category: "breakfast",
+        //ingredients
         ingredients: "\u2022Tigernuts \n\u2022Rice \n\u2022Salt \n\u2022Vanilla Essence \n\u2022Water \n\u2022Sugar \n\u2022Milk",
         instructions: "1. Soak tigernuts and uncooked rice separately overnight. \n2. Discard soaking water and wash both rice and tigernuts.\n 3. Blend the soaked rice and tigernut with enough water until smooth. \n4. Strain the blended mixture into a bowl, makign sure there is no pulp in the strained tigernut milk. \n5. Blend the pulp with enough water and strain a few more times to extract more milk form it.\n 6. Pour the milk into a pot over low medium heat and whisk in one direction till it thickens.\n 7. Add a pinch of salt, vanilla essence and sugar and continue whisking till evenly mixed.\n 8. The tigernut pudding is ready.Serve while hot and enjoy with milk."
     }
-
 ]
 
 export default recipes
