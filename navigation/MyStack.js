@@ -3,9 +3,6 @@ import Lunch from '../Views/Lunch';
 import Supper from '../Views/Supper';
 import Main from '../Views/Main';
 import Recipe from '../Views/Recipe';
-import Feedback from '../Views/Feedback';
-import Search from '../Views/Search';
-import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
 const Stack = createNativeStackNavigator();
