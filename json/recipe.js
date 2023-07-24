@@ -44,12 +44,28 @@ const recipes = [
         img: require("../assets/waakye_supper.jpg"),
         name: "Waakye",
         category: "supper",
-        ingredients: "\u2022 1 cup dried black eyed beans/ peas soaked overnight\n\u2022 2 cups rice\n\u2022 8-10 dried millet stalk leaves\n\u2022 salt as required ",
-        instructions: "1. Pour over a litre of water into a saucepan together with the millet leaf stalks. Put on a high heat to boil.\nThe millet stalk leaves will start omitting its colour and the water will start turning into a deep wine colour.\n2. Rinse the soaked beans and add to the boiling water.\nCover and let it cook till tender. Mean while rinse the rice till the water is cleared. Add the washed rice into the saucepan together with salt to taste. (You might need to add more water.) Add water if needed. Stir and cover tightly.\n3. Do not remove the millet stalk leaves. When the rice boils over, reduce heat and simmer till the water is absorbed and the rice is cooked through. Rent for three to five minutes, remove millet stalk leaves and fluff with a fork."
-    }
-    ,
+        ingredients: "",
+        instructions: ""
+    },
     {
         id: 7,
+        img: require("../assets/attieke_lunch.jpg"),
+        name: "Attieke",
+        category: "Lunch",
+        ingredients: "For Grilled Tilapia:\n\u2022 Fresh tilapia (cleaned and washed)\n\u2022 An onion\n\u2022 Salt\n\u2022 Garlic\u2022 Ginger\n\u2022 Spring onion\n\u2022 Few chillies\n\u2022 Bell pepper\n\u2022All purpose seasoning\n\u2022 Maggi cube\n\nFor Attieke:\n\u2022 Store bought attieke\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Bell pepper\n\u2022 Maggi cube\n\u2022 Vegetable oil\n\u2022 Salt",
+        instructions: "1. Cut and blend all the vegetables with the seasoning to make a marinade.\n2. Cut slits on the tilapia and cover it in the marinade, making sure it gets in all the crevices and leave in a fridge  to marinate.\n3. Preheat oven to 180 degrees Fahrenheit before putting the tilapia in it for 35 minutes\n4. Pour  attieke into a bowl and sprinkle water into it. Warm it in a microwave to absorb the water and soften.\n5. Pour a little oil in a frying pan and add chopped onions to fry for 2 minutes\n6. Add the warm attieke into the pan and stir it.\n7. Add Maggi and salt and continue stirring till evenly mixed.\nThe attieke is now ready, serve with fresh chopped tomatoes and onions and chopped and steamed bell pepper, with the grilled tilapia and enjoy with pepper sauce."
+    },
+    {
+        id: 8,
+        img: require("../assets/ebunuebunu_supper.jpg"),
+        name: "Ebunuebunu",
+        category: "Supper",
+        ingredients: "\u2022 Snails or any meat of your choice\n\u2022 Herrings/dry or smoked fish\n\u2022 Salt\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Garlic\n\u2022 Ginger\n\u2022 Kontomire\n\u2022 prekese\n\u2022 Optional:\n        peanut butter",
+        instructions:"1. Wash the kontomire leaves in a clean bowl and put into a saucepan\n2. Add a little amount of water and boil under a medium heat\n3. Remove after 5 minutes when it softens\n4. Wash the meat and put into another saucepan.\n5. Wash and cut onions into pieces.\n6. Add diced onions to meat, add seasoning and salt to taste. Place over medium heat.\n7. Chop some onions and pour into a blender, add ginger, pepper and garlic and blend into a smooth mixture.\n8. Pour the blended mixture into the meat on fire.\n9. Add about 4 pieces of fresh tomatoes and fresh onions\n10. Add a teaspoon of peanut butter\n11. Blend the cocoyam leaves and pour it into the soup\n12. Add about 4 cups of water. you can add more depending on how thick you want your soup to be.\n13. Remove the cooked onions and cooked tomatoes and blend together.\n14. Pour the blended mixture back into the soup\n15. Add this point, you can add the herrings or smoked fish. Allow the soup to boil for about 15 minutes.\n16. Add salt or maggie cube to taste\n17. Add the prekese and allow it to diffuse in the soup for about 5 minutes.\nThe soup is ready. Serve with fufu."
+        }
+  ,
+    {
+        id: 9,
         img: require("../assets/wheat_porridge_breakfast.jpg"),
         name: "Wheat",
         category: "breakfast",
@@ -59,7 +75,7 @@ const recipes = [
         instructions: "1. Boil two cups of water in a saucepan.\n 2. Pour in the wheat. \n3. Cover it with the lid and remove it form the heat source. \n4. Leave it to soak for about six hours. After that, drain the water form the wheat using a colander.\n 5. Add the wheat soaked early on with the four cups of water left and boil for about 15 minutes. Let it be on medium heat.\n 6. After 15 minutes, trun off the fire and wait till the wheat berries open up. \n7. Serve. You and add sugar and milk to your taste."
     },
     {
-        id: 8,
+        id: 10,
         img: require("../assets/pudding_breakfast.jpg"),
         name: "Tigernut Pudding",
         category: "breakfast",
