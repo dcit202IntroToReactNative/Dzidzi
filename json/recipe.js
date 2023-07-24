@@ -61,7 +61,7 @@ const recipes = [
         name: "Ebunuebunu",
         category: "Supper",
         ingredients: "\u2022 Snails or any meat of your choice\n\u2022 Herrings/dry or smoked fish\n\u2022 Salt\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Garlic\n\u2022 Ginger\n\u2022 Kontomire\n\u2022 prekese\n\u2022 Optional:\n        peanut butter",
-        
+        instructions:"1. Wash the kontomire leaves in a clean bowl and put into a saucepan\n2. Add a little amount of water and boil under a medium heat\n3. Remove after 5 minutes when it softens\n4. Wash the meat and put into another saucepan.\n5. Wash and cut onions into pieces.\n6. Add diced onions to meat, add seasoning and salt to taste. Place over medium heat.\n7. Chop some onions and pour into a blender, add ginger, pepper and garlic and blend into a smooth mixture.\n8. Pour the blended mixture into the meat on fire.\n9. Add about 4 pieces of fresh tomatoes and fresh onions\n10. Add a teaspoon of peanut butter\n11. Blend the cocoyam leaves and pour it into the soup\n12. Add about 4 cups of water. you can add more depending on how thick you want your soup to be.\n13. Remove the cooked onions and cooked tomatoes and blend together.\n14. Pour the blended mixture back into the soup\n15. Add this point, you can add the herrings or smoked fish. Allow the soup to boil for about 15 minutes.\n16. Add salt or maggie cube to taste\n17. Add the prekese and allow it to diffuse in the soup for about 5 minutes.\nThe soup is ready. Serve with fufu."
         }
 ]
 
