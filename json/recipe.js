@@ -52,7 +52,16 @@ const recipes = [
         img: require("../assets/oblayo_breakfast.jpg"),
         name: "Oblayo",
         category: "breakfast",
-        ingredients: "\u2022 Roughly ground corn\n\u2022 Water\n\u2022 Sugar\n\u2022 1/2 teaspoon nutmeg\n\u2022 honey/sugar any sweetener of choice\n\u2022 powdered or evaporated milk to serve\n\u2022 Dash of nutmeg for garnish optional",
+        ingredients: "\u2022 Roughly ground corn\n\u2022 Water\n\u2022 Sugar\n\u2022 Milk",
+        instructions: "1.Pour some corn in a bowl and add water to it.\n2.Stir and wait for the corn to settle, the chaff will surface, then pour away the chaff from it.\n3. Put water on fire in the saucepan, pour in your corn and stir from time to time and leave it to cook for a while.\n4.Cook until you can squash the corn.\n 5.If you want it lighter, you can add more water, stir and let it cook for a little more time.\n 6.Pour it into a bowl and its ready. Add your sugar and milk as you want."
+        
+    },
+    {
+        id: 8,
+        img: require("../assets/tuozafi_supper.jpg"),
+        name: "Tuozafi",
+        category: "Supper",
+        ingredients: "For Tuo:\n\u2022 2-3 largre yams\n\u2022 Water\n For Soup:\n\u2022 Onion (1 large chopped)\n\u2022 Tomatoes(2-3 medium-sized, chopped)\n\u2022 Scotch bonnet pepper (1-2 chopped)\n\u2022 powdered or evaporated milk to serve\n\u2022 Dash of nutmeg for garnish optional",
         instructions: "1.Pour some corn in a bowl and add water to it.\n2.Stir and wait for the corn to settle, the chaff will surface, then pour away the chaff from it.\n3. Put water on fire in the saucepan, pour in your corn and stir from time to time and leave it to cook for a while.\n4. Cook until you can squash the corn.\n5.If you want it lighter, you can add more water, stir and let it cook for a little more time.\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want. ."
         
     }
