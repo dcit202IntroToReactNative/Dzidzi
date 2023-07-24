@@ -61,7 +61,7 @@ const recipes = [
         img: require("../assets/tuozafi_supper.jpg"),
         name: "Tuozafi",
         category: "Supper",
-        ingredients: "For Tuo:\n\u2022 2-3 largre yams\n\u2022 Water\n For Soup:\n\u2022 Onion (1 large chopped)\n\u2022 Tomatoes(2-3 medium-sized, chopped)\n\u2022 Scotch bonnet pepper (1-2 chopped)\n\u2022 powdered or evaporated milk to serve\n\u2022 Dash of nutmeg for garnish optional",
+        ingredients: "For Tuo:\n\u2022 2-3 largre yams\n\u2022 Water\n For Soup:\n\u2022 Onion (1 large chopped)\n\u2022 Tomatoes(2-3 medium-sized, chopped)\n\u2022 Scotch bonnet pepper (1-2 chopped)\n\u2022 Ginger(thumb-sized piece, grated)\n\u2022 Garlic cloves(2-3 minced) \n\u2022 Stock cube(optionable) \n\u2022 Vegetables(such as spinach, kale or collard greens) \n\u2022 Salt \n\u2022 Palm oil \n\u2022 Spices",
         instructions: "1.Pour some corn in a bowl and add water to it.\n2.Stir and wait for the corn to settle, the chaff will surface, then pour away the chaff from it.\n3. Put water on fire in the saucepan, pour in your corn and stir from time to time and leave it to cook for a while.\n4. Cook until you can squash the corn.\n5.If you want it lighter, you can add more water, stir and let it cook for a little more time.\n 6.Pour it into a bowl and its ready. add your sugar and milk as you want. ."
         
     }
