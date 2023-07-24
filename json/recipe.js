@@ -49,7 +49,7 @@ const recipes = [
     },
     {
         id: 100,
-        
+        img: require("../assets/attieke_lunch.jpg"),
         name: "Attieke",
         category: "Lunch",
         ingredients: "For Grilled Tilapia:\n\u2022 Fresh tilapia (cleaned and washed)\n\u2022 An onion\n\u2022 Salt\n\u2022 Garlic\u2022 Ginger\n\u2022 Spring onion\n\u2022 Few chillies\n\u2022 Bell pepper\n\u2022All purpose seasoning\n\u2022 Maggi cube\n\nFor Attieke:\n\u2022 Store bought attieke\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Bell pepper\n\u2022 Maggi cube\n\u2022 Vegetable oil\n\u2022 Salt",
@@ -57,7 +57,7 @@ const recipes = [
     },
     {
         id: 200,
-      
+        img: require("../assets/ebunuebunu_supper.jpg"),
         name: "Ebunuebunu",
         category: "Supper",
         ingredients: "\u2022 Snails or any meat of your choice\n\u2022 Herrings/dry or smoked fish\n\u2022 Salt\n\u2022 Onions\n\u2022 Tomatoes\n\u2022 Garlic\n\u2022 Ginger\n\u2022 Kontomire\n\u2022 prekese\n\u2022 Optional:\n        peanut butter",
